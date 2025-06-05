@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../haika/OneDrive/ドキュメント/PlatformIO/Projects/250605-230036-esp32doit-devkit-v1"
+		},
+		{
+			"name": "HeartRateSensor",
+			"path": "../../../../haika/OneDrive/ドキュメント/PlatformIO/Projects/HeartRateSensor"
+		},
+		{
+			"name": "Heart",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
